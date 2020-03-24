@@ -2928,12 +2928,40 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="young" cornetto_synset_id="d_a-9357" wordnet_id="a-01646941" pos="JJ" sense="(used of living things especially persons) in an early period of life or development or growth" polarity="0.1" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="younger" wordnet_id="a-02101382" pos="JJ" sense="used of the younger of two persons of the same name especially used to distinguish a son from his father" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="youngish" cornetto_synset_id="n_a-514159" wordnet_id="a-01649651" pos="JJ" sense="somewhat young" polarity="0.4" subjectivity="0.8" intensity="1.0" confidence="0.8" />
-<word form="refund" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="delay" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="dispute" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="reject" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="cancel" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="inconvenience" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="unable" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />  
-reliability="0.9" />
+<word form="refund" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="delay" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="dispute" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="reject" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="cancel" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="inconvenience" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="unable" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />  
+<!-- New negative words   -->
+<word form="apologies" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="assistance" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="attention" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="avoid" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="await" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="concern" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="damage" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="demurrage" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="detention" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="disclosure" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="disseminate" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="enquiry" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="error" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="exception" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="issue" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="liability" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="missing" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="mistake" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="needful" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="patience" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="pending" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="regret" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="resolve" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="revert" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="surrendered" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="triggered" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="urgent" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="wait" wordnet_id="" pos="UH" sense="" polarity="-0.8" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 </sentiment>
