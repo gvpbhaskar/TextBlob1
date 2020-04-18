@@ -16,25 +16,11 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="2nd" wordnet_id="a-02202146" pos="JJ" sense="coming next after the first in position in space or time or degree or magnitude" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="3rd" cornetto_synset_id="n_a-530634" wordnet_id="a-02202307" pos="JJ" sense="coming next after the second and just before the fourth in position" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="abhorrent" wordnet_id="a-1625063" pos="JJ" sense="offensive to the mind" polarity="-0.7" subjectivity="0.8" intensity="1.0" reliability="0.9" />
-<word form="able" cornetto_synset_id="n_a-534450" wordnet_id="a-01017439" pos="JJ" sense="having a strong healthy body" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="able" wordnet_id="a-00001740" pos="JJ" sense="(usually followed by 'to') having the necessary means or skill or know-how or authority to do something" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="able" wordnet_id="a-00306663" pos="JJ" sense="having inherent physical or mental ability or capacity" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="able" wordnet_id="a-00510348" pos="JJ" sense="have the skills and qualifications to do things well" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="above" cornetto_synset_id="n_a-504850" wordnet_id="a-00125993" pos="JJ" sense="appearing earlier in the same text" polarity="0.0" subjectivity="0.1" intensity="1.0" confidence="0.8" />
 <word form="abridged" cornetto_synset_id="d_a-9176" wordnet_id="a-00004413" pos="JJ" sense="(used of texts) shortened by condensing or rewriting" polarity="0.1" subjectivity="0.5" intensity="1.0" confidence="0.8" />
 <word form="abrupt" cornetto_synset_id="n_a-505100" wordnet_id="a-00640520" pos="JJ" sense="surprisingly and unceremoniously brusque in manner" polarity="-0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="abrupt" cornetto_synset_id="n_a-529169" wordnet_id="a-01145151" pos="JJ" sense="extremely steep" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="abrupt" wordnet_id="a-01143585" pos="JJ" sense="exceedingly sudden and unexpected" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="abrupt" wordnet_id="a-02294122" pos="JJ" sense="marked by sudden changes in subject and sharp transitions" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="absence" wordnet_id="n-1234345" pos="NN" sense="failure to be present" polarity="-0.05" subjectivity="0.0" intensity="1.0" reliability="0.9" />
-<word form="absence" wordnet_id="n-13960974" pos="NN" sense="the state of being absent" polarity="0.0" subjectivity="0.0" intensity="1.0" reliability="0.9" />
-<word form="absence" wordnet_id="n-14088412" pos="NN" sense="the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc." polarity="0.0" subjectivity="0.0" intensity="1.0" reliability="0.9" />
-<word form="absence" wordnet_id="n-15270862" pos="NN" sense="the time interval during which something or somebody is away" polarity="0.0" subjectivity="0.0" intensity="1.0" reliability="0.9" />
 <word form="absolute" cornetto_synset_id="n_a-524815" wordnet_id="a-00005205" pos="JJ" sense="perfect or complete or pure" polarity="1.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="absolute" cornetto_synset_id="n_a-525079" wordnet_id="a-00520892" pos="JJ" sense="complete and without restriction or qualification" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="absolute" wordnet_id="a-00094069" pos="JJ" sense="not capable of being violated or infringed" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="absolute" wordnet_id="a-00719328" pos="JJ" sense="not limited by law" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="absolute" wordnet_id="a-00897015" pos="JJ" sense="expressing finality with no implication of possible change" polarity="0.0" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="absorbed" cornetto_synset_id="n_a-507609" wordnet_id="a-02009166" pos="JJ" sense="retained without reflection" polarity="0.3" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="absorbing" cornetto_synset_id="n_a-501243" wordnet_id="a-01344171" pos="JJ" sense="capable of arousing and holding the attention" polarity="0.4" subjectivity="1.0" intensity="1.0" confidence="0.8" />
 <word form="absorbing" cornetto_synset_id="n_a-528398" wordnet_id="a-01344171" pos="JJ" sense="capable of arousing and holding the attention" polarity="0.0" subjectivity="0.9" intensity="1.0" confidence="0.8" />
@@ -276,9 +262,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="biographic" cornetto_synset_id="n_a-504218" wordnet_id="a-03048680" pos="JJ" sense="of or relating to or being biography" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.8" />
 <word form="bitter" cornetto_synset_id="d_a-9192" wordnet_id="a-02396098" pos="JJ" sense="causing a sharp and acrid taste experience" polarity="-0.1" subjectivity="0.5" intensity="1.0" confidence="0.8" />
 <word form="bizarre" cornetto_synset_id="n_a-531732" wordnet_id="a-00608791" pos="JJ" sense="conspicuously or grossly unconventional or unusual" polarity="0.4" subjectivity="0.6" intensity="1.0" confidence="0.8" />
-<word form="black" cornetto_synset_id="c_387" wordnet_id="a-00241952" pos="JJ" sense="of or belonging to a racial group having dark skin especially of sub-Saharan African origin" polarity="0.0" subjectivity="0.1" intensity="1.0" confidence="0.8" />
-<word form="black" cornetto_synset_id="n_a-536067" wordnet_id="a-00274068" pos="JJ" sense="extremely dark" polarity="-0.4" subjectivity="1.0" intensity="1.0" confidence="0.8" />
-<word form="black" cornetto_synset_id="n_a-536093" wordnet_id="a-00392812" pos="JJ" sense="being of the achromatic color of maximum darkness" polarity="-0.1" subjectivity="0.2" intensity="1.0" confidence="0.8" />
 <word form="bland" cornetto_synset_id="n_a-509105" wordnet_id="a-02399595" pos="JJ" sense="lacking taste or flavor or tang" polarity="-0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="bland" wordnet_id="a-00758800" pos="JJ" sense="smoothly agreeable and courteous with a degree of sophistication" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="bland" wordnet_id="a-02307563" pos="JJ" sense="lacking stimulating characteristics" polarity="-0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
@@ -437,7 +420,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="clever" cornetto_synset_id="n_a-516334" wordnet_id="a-01334958" pos="JJ" sense="mentally quick and resourceful" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="clever" wordnet_id="a-00061885" pos="JJ" sense="showing inventiveness and skill" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="clever" wordnet_id="a-00439252" pos="JJ" sense="showing self-interest and shrewdness in dealing with others" polarity="-0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="closed" cornetto_synset_id="d_a-9226" wordnet_id="a-01653538" pos="JJ" sense="not open or affording passage or access" polarity="-0.1" subjectivity="0.1" intensity="1.0" confidence="0.8" />
 <word form="cloud-covered" cornetto_synset_id="n_a-503224" wordnet_id="a-00461971" pos="JJ" sense="filled or abounding with clouds" polarity="-0.2" subjectivity="0.6" intensity="1.0" confidence="0.8" />
 <word form="cloudless" cornetto_synset_id="d_a-9329" wordnet_id="a-00460946" pos="JJ" sense="free from clouds" polarity="0.1" subjectivity="0.1" intensity="1.0" confidence="0.8" />
 <word form="cluelessness" wordnet_id="" pos="NN" sense="" polarity="-0.1" subjectivity="0.2" intensity="1.0" reliability="0.9" />
@@ -730,7 +712,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="dry" cornetto_synset_id="c_573" wordnet_id="a-02307729" pos="JJ" sense="lacking interest or stimulation" polarity="-0.6" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="dry" cornetto_synset_id="n_a-507618" wordnet_id="a-01266092" pos="JJ" sense="humorously sarcastic or mocking" polarity="0.4" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="dudsville" wordnet_id="" pos="NNP" sense="" polarity="-0.2" subjectivity="0.7" intensity="1.0" reliability="0.9" />
-<word form="due" cornetto_synset_id="n_a-532324" wordnet_id="a-00136354" pos="JJ" sense="owed and payable immediately or on demand" polarity="-0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="due" wordnet_id="a-00137725" pos="JJ" sense="suitable to or expected in the circumstances" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="due" wordnet_id="a-00171872" pos="JJ" sense="capable of being assigned or credited to" polarity="0.0" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="due" wordnet_id="a-00929916" pos="JJ" sense="scheduled to arrive" polarity="0.0" subjectivity="0.5" intensity="1.0" confidence="0.9" />
@@ -793,8 +774,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="emotional" cornetto_synset_id="n_a-508279" wordnet_id="a-00853776" pos="JJ" sense="of more than usual emotion" polarity="0.0" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="emotional" cornetto_synset_id="n_a-508280" wordnet_id="a-00853776" pos="JJ" sense="of more than usual emotion" polarity="0.0" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="empirical" cornetto_synset_id="n_a-524456" wordnet_id="a-00858917" pos="JJ" sense="derived from experiment and observation rather than theory" polarity="0.1" subjectivity="0.1" intensity="1.0" confidence="0.8" />
-<word form="empty" cornetto_synset_id="d_a-9379" wordnet_id="a-01086545" pos="JJ" sense="holding or containing nothing" polarity="-0.4" subjectivity="0.6" intensity="1.0" confidence="0.8" />
-<word form="empty" cornetto_synset_id="n_a-520215" wordnet_id="a-01269319" pos="JJ" sense="needing nourishment" polarity="0.2" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="endearing" wordnet_id="a-01459755" pos="JJ" sense="lovable especially in a childlike or naive way" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="endless" cornetto_synset_id="n_a-531862" wordnet_id="a-00596211" pos="JJ" sense="having the ends united so as to form a continuous whole" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="endless" wordnet_id="a-01007947" pos="JJ" sense="having no known beginning and presumably no end" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
@@ -960,12 +939,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="final" cornetto_synset_id="n_a-509641" wordnet_id="a-01579128" pos="JJ" sense="conclusive in a process or progression" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="final" wordnet_id="a-01010271" pos="JJ" sense="occurring at or forming an end or termination" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="financial" cornetto_synset_id="n_a-509070" wordnet_id="a-02847894" pos="JJ" sense="involving financial matters" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-00850183" pos="JJ" sense="characterized by elegance or refinement or accomplishment" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-01838253" pos="JJ" sense="minutely precise especially in differences in meaning" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-01906817" pos="JJ" sense="free from impurities" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-02081114" pos="JJ" sense="being satisfactory or in satisfactory condition" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-02232251" pos="JJ" sense="of textures that are smooth to the touch or substances consisting of relatively small particles" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="fine" wordnet_id="a-02414031" pos="JJ" sense="thin in thickness or diameter" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="fine-looking" cornetto_synset_id="n_a-515377" wordnet_id="a-00218950" pos="JJ" sense="pleasing in appearance especially by reason of conformity to ideals of form and proportion" polarity="0.6" subjectivity="1.0" intensity="1.0" confidence="0.8" />
 <word form="firm" cornetto_synset_id="n_a-520774" wordnet_id="a-01990653" pos="JJ" sense="marked by firm determination or resolution" polarity="-0.2" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="first" cornetto_synset_id="n_a-507410" wordnet_id="a-01010862" pos="JJ" sense="preceding all others in time or space or degree" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
@@ -1014,7 +987,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="fragile" cornetto_synset_id="c_565" wordnet_id="a-00709215" pos="JJ" sense="easily broken or damaged or destroyed" polarity="-0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="fragile" cornetto_synset_id="n_a-530385" wordnet_id="a-00706688" pos="JJ" sense="vulnerably delicate" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="fragile" wordnet_id="a-02164913" pos="JJ" sense="lacking substance or significance" polarity="0.0" subjectivity="0.5" intensity="1.0" confidence="0.9" />
-<word form="free" cornetto_synset_id="n_a-533873" wordnet_id="a-00916199" pos="JJ" sense="not literal" polarity="0.4" subjectivity="0.8" intensity="1.0" confidence="0.8" />
 <word form="free-thinking" cornetto_synset_id="n_a-521201" wordnet_id="a-00287275" pos="JJ" sense="unwilling to accept authority or dogma (especially in religion)" polarity="0.0" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="freestanding" cornetto_synset_id="n_a-502386" wordnet_id="a-00160768" pos="JJ" sense="standing apart" polarity="0.0" subjectivity="0.1" intensity="1.0" confidence="0.8" />
 <word form="freestanding" cornetto_synset_id="n_a-502386" wordnet_id="a-00160768" pos="JJ" sense="standing apart" polarity="0.0" subjectivity="0.1" intensity="1.0" confidence="0.8" />
@@ -1080,10 +1052,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="giant" wordnet_id="a-01385773" pos="JJ" sense="of great mass" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="gifted" cornetto_synset_id="d_a-9174" wordnet_id="a-01119192" pos="JJ" sense="endowed with talent or talents" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="gimmicky" wordnet_id="" pos="JJ" sense="" polarity="-0.2" subjectivity="0.5" intensity="1.0" reliability="0.9" />
-<word form="glad" wordnet_id="a-00362892" pos="JJ" sense="cheerful and bright" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="glad" wordnet_id="a-01146920" pos="JJ" sense="feeling happy appreciation" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="glad" wordnet_id="a-01361414" pos="JJ" sense="showing or causing joy and pleasure" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="glad" wordnet_id="a-02565583" pos="JJ" sense="eagerly disposed to act or to be of service" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="global" cornetto_synset_id="n_a-511093" wordnet_id="a-02041229" pos="JJ" sense="having the shape of a sphere or ball" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="global" cornetto_synset_id="n_a-523513" wordnet_id="a-01568684" pos="JJ" sense="involving the entire earth" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="gloom" wordnet_id="n-13985462" pos="NN" sense="a state of partial or total darkness" polarity="0.0" subjectivity="0.0" intensity="1.0" reliability="0.9" />
@@ -1228,8 +1196,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="horrific" cornetto_synset_id="n_a-532685" wordnet_id="a-00193799" pos="JJ" sense="causing fear or dread or terror" polarity="-1.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="horrific" wordnet_id="a-01626562" pos="JJ" sense="grossly offensive to decency or morality" polarity="-1.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="horrifying" wordnet_id="" pos="JJ" polarity="-0.9" subjectivity="1.0" intensity="1.0" confidence="0.9" />
-<word form="hot" cornetto_synset_id="n_a-526932" wordnet_id="a-00033077" pos="JJ" sense="marked by excited activity" polarity="-0.1" subjectivity="0.8" intensity="1.0" confidence="0.8" />
-<word form="hot" cornetto_synset_id="n_a-526932" wordnet_id="a-00033077" pos="JJ" sense="marked by excited activity" polarity="0.6" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="huge" cornetto_synset_id="n_a-508356" wordnet_id="a-01387319" pos="JJ" sense="unusually great in size or amount or degree or especially extent or scope" polarity="0.8" subjectivity="1.0" intensity="1.0" confidence="0.8" />
 <word form="huge" cornetto_synset_id="n_a-521669" wordnet_id="a-01387319" pos="JJ" sense="unusually great in size or amount or degree or especially extent or scope" polarity="0.3" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="huge" cornetto_synset_id="n_a-531690" wordnet_id="a-01387319" pos="JJ" sense="unusually great in size or amount or degree or especially extent or scope" polarity="0.1" subjectivity="0.8" intensity="1.0" confidence="0.8" />
@@ -1389,7 +1355,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="juvenile" wordnet_id="a-02892980" pos="JJ" sense="of or relating to or characteristic of or appropriate for children or young people" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.9" />
 <word form="key" wordnet_id="a-01277097" pos="JJ" sense="serving as an essential component" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="killed" wordnet_id="" pos="VB" sense="cause to die" polarity="-0.2" subjectivity="0.0" intensity="1.0" confidence="0.8" />
-<word form="kind" cornetto_synset_id="n_a-501386" wordnet_id="a-01372049" pos="JJ" sense="having or showing a tender and considerate and helpful nature" polarity="0.6" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="lame" wordnet_id="a-01018788" pos="JJ" sense="disabled in the feet or legs" polarity="-0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="lame" wordnet_id="a-02325304" pos="JJ" sense="pathetically lacking in force or effectiveness" polarity="-0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="large" cornetto_synset_id="n_a-508271" wordnet_id="a-00579622" pos="JJ" sense="conspicuous in position or importance" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
@@ -1904,7 +1869,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="plausible" wordnet_id="a-02182728" pos="JJ" sense="given to or characterized by presenting specious arguments" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="pleasant" cornetto_synset_id="n_a-506397" wordnet_id="a-01586866" pos="JJ" sense="(of persons) having pleasing manners or behavior" polarity="0.7" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="pleasant" cornetto_synset_id="n_a-532410" wordnet_id="a-01800349" pos="JJ" sense="affording pleasure" polarity="0.6" subjectivity="1.0" intensity="1.0" confidence="0.8" />
-<word form="pleasant" cornetto_synset_id="n_a-532410" wordnet_id="a-01800349" pos="JJ" sense="affording pleasure" polarity="0.9" subjectivity="1.0" intensity="1.0" confidence="0.8" />
 <word form="pleased" cornetto_synset_id="n_a-513664" wordnet_id="a-01892506" pos="JJ" sense="feeling pleasurable satisfaction over something by which you measures your self-worth" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="pleased" wordnet_id="a-01805157" pos="JJ" sense="experiencing or manifesting pleasure" polarity="0.5" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="pleonastic" cornetto_synset_id="d_a-9483" wordnet_id="a-00549826" pos="JJ" sense="repetition of same sense in different words" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
@@ -2645,7 +2609,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="toilet" wordnet_id="n-4446521" pos="NN" sense="a plumbing fixture for defecation and urination" polarity="-0.1" subjectivity="0.0" intensity="1.0" reliability="0.9" />
 <word form="toilet" wordnet_id="n-828704" pos="NN" sense="the act of dressing and preparing yourself" polarity="0.0" subjectivity="0.0" intensity="1.0" reliability="0.9" />
 <word form="toneless" cornetto_synset_id="n_a-531021" wordnet_id="a-02430238" pos="JJ" sense="lacking in tone or expression" polarity="-0.1" subjectivity="0.2" intensity="1.0" confidence="0.8" />
-<word form="top" wordnet_id="a-02439949" pos="JJ" sense="situated at the top or highest position" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="top-notch" wordnet_id="a-02341864" pos="JJ" sense="of the highest quality" polarity="1.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
 <word form="topical" cornetto_synset_id="n_a-523452" wordnet_id="a-00668053" pos="JJ" sense="of interest at the present time" polarity="0.0" subjectivity="0.1" intensity="1.0" confidence="0.8" />
 <word form="topical" cornetto_synset_id="n_a-523453" wordnet_id="a-00668053" pos="JJ" sense="of interest at the present time" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.8" />
@@ -2892,7 +2855,6 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="whimsical" wordnet_id="a-00719442" pos="JJ" sense="determined by chance or impulse or whim rather than by necessity or reason" polarity="-0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="white" cornetto_synset_id="n_a-535039" wordnet_id="a-00393105" pos="JJ" sense="being of the achromatic color of maximum lightness" polarity="0.0" subjectivity="0.0" intensity="1.0" confidence="0.8" />
 <word form="whole" cornetto_synset_id="d_a-9327" wordnet_id="a-00514884" pos="JJ" sense="including all components without exception" polarity="0.2" subjectivity="0.4" intensity="1.0" confidence="0.8" />
-<word form="wide" cornetto_synset_id="c_291" wordnet_id="a-02560548" pos="JJ" sense="having great (or a certain) extent from one side to the other" polarity="-0.1" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="wild" cornetto_synset_id="n_a-534877" wordnet_id="a-02389220" pos="JJ" sense="in a natural state" polarity="0.1" subjectivity="0.4" intensity="1.0" confidence="0.8" />
 <word form="willing" cornetto_synset_id="d_a-9289" wordnet_id="a-02564986" pos="JJ" sense="disposed or inclined toward" polarity="0.5" subjectivity="0.5" intensity="1.0" confidence="0.9" />
 <word form="willing" wordnet_id="a-02521036" pos="JJ" sense="not brought about by coercion or force" polarity="0.0" subjectivity="1.0" intensity="1.0" confidence="0.9" />
@@ -2932,7 +2894,41 @@ For English movie reviews (Pang & Lee polarity dataset v2.0), the accuracy is 75
 <word form="delay" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="dispute" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
 <word form="reject" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="cancel" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="inconvenience" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
-<word form="unable" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />  
+<!-- New negative words   -->
+<word form="problem" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="attention" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="avoid" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="damage" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="disclosure" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="error" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="exception" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="liability" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="missing" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="mistake" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="regret" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="resolve" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="wait" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="incorrect" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="longer" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<!-- NEW WORDS -->
+<word form="rebate" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="postpone" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="disagreement" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="feud" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="oppose" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="reschedule" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="dilemma" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="conundrum" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="prevent" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="minimize" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="avert" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="worry" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="caveat" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="vanished" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="misjudgment" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="miscalculation" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="sadness" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="rectify" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<word form="inaccurate" wordnet_id="" pos="UH" sense="" polarity="-0.5" subjectivity="0.9" intensity="1.0" confidence="0.8" />
+<!-- new positive words -->
 </sentiment>
