@@ -1,649 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sentiment language="en" version="1.3">
-<word form="concerned" wordnet_id=""  polarity="-0.78" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="checking"  wordnet_id="" polarity="-0.75" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="spot"  wordnet_id="" polarity="-0.75" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="responsibility"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dissatisfied"  wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="expect"  wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="delayed"  wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="adjust"  wordnet_id="" polarity="-0.69" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="settle"  wordnet_id="" polarity="-0.69" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="incorrect"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="atleast"  wordnet_id="" polarity="-0.66" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="outstanding"  wordnet_id="" polarity="-0.65" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="badly"  wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="supposed"  wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="rejected"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="enabling"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="revalidation"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="demurrage"  wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="improve"  wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="intervene"  wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sort"  wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="lost"  wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="recheck"  wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="satisfied"  wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reminder"  wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="properly"  wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="damaged"  wordnet_id="" polarity="-0.57" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="understanding"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wrong"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="removed"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="delay"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mistake"  wordnet_id="" polarity="-0.55" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="remove"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="awaited"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dispute"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="understand"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="resolved"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="additional"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reason"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="chasing"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="responsible"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="penalty"  wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="resubmit"  wordnet_id="" polarity="-0.49" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="intimation"  wordnet_id="" polarity="-0.49" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="late"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="resolve"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="guarantee"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="await"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="revert"  wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="detention"  wordnet_id="" polarity="-0.45" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="rectify"  wordnet_id="" polarity="-0.45" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unable"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="charge"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="waiting"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="expecting"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="agreed"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="urgent"  wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="require"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pending"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="issued"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="problem"  wordnet_id="" polarity="-0.39" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="corrected"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wait"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="importance"  wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="acceptance"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="better"  wordnet_id="" polarity="-0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="damage"  wordnet_id="" polarity="-0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="soonest"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="released"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="great"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="updated"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="necessary"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="expected"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="longer"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unfortunately"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="urgently"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="help"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="amendment"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="immediately"  wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="immediate"  wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="accepting"  wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="advise"  wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="loss"  wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="correct"  wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ignore"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="positive"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="need"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="error"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="contact"  wordnet_id="" polarity="-0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="awaiting"  wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ensure"  wordnet_id="" polarity="-0.25" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wrongly"  wordnet_id="" polarity="-0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="issue"  wordnet_id="" polarity="-0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="releasing"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="advice"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="update"  wordnet_id="" polarity="-0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="valuable"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="precautions"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="arrange"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mandatory"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="approve"  wordnet_id="" polarity="-0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reference"  wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="changed"  wordnet_id="" polarity="-0.15" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="earliest"  wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="asap"  wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="penalties"  wordnet_id="" polarity="-0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="confirmation"  wordnet_id="" polarity="-0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="inspection"  wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="inconvenience"  wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="revalidate"  wordnet_id="" polarity="-0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="release"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="avoid"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="missing"  wordnet_id="" polarity="-0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="revalidated"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="required"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="tentative"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="contained"  wordnet_id="" polarity="-0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="resending"  wordnet_id="" polarity="-0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reconfirm"  wordnet_id="" polarity="0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="returned"  wordnet_id="" polarity="0.02" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="revise"  wordnet_id="" polarity="0.02" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="efforts"  wordnet_id="" polarity="0.05" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="support"  wordnet_id="" polarity="0.06" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unless"  wordnet_id="" polarity="0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="correction"  wordnet_id="" polarity="0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="amended"  wordnet_id="" polarity="0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="surrendered"  wordnet_id="" polarity="0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="prompt"  wordnet_id="" polarity="0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="encourage"  wordnet_id="" polarity="0.25" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="proper"  wordnet_id="" polarity="0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="hesitate"  wordnet_id="" polarity="0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="important"  wordnet_id="" polarity="0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="amend"  wordnet_id="" polarity="0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wants"  wordnet_id="" polarity="0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="resend"  wordnet_id="" polarity="0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="emergency"  wordnet_id="" polarity="0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="able"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="above"  wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="absolute"  wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="accurate"  wordnet_id="" polarity="-0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="action"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="active"  wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="actual"  wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="adamant"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="alternate"  wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="anxious"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="appreciated"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="approaching"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="authentic"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="available"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="aware"  wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="back"  wordnet_id="" polarity="-0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bare"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="basic"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="best"  wordnet_id="" polarity="-0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="big"  wordnet_id="" polarity="-0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="black"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="blank"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="blue"  wordnet_id="" polarity="-0.59" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="british"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="careful"  wordnet_id="" polarity="-0.81" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="central"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="clean"  wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="clear"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="commercial"  wordnet_id="" polarity="-0.15" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="common"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="competent"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="complete"  wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="confident"  wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="confirmed"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="critical"  wordnet_id="" polarity="-0.65" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cross"  wordnet_id="" polarity="-0.43" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="current"  wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="deep"  wordnet_id="" polarity="-0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="definite"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="definitely"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="detailed"  wordnet_id="" polarity="-0.65" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="different"  wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="direct"  wordnet_id="" polarity="0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="domestic"  wordnet_id="" polarity="-0.91" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="double"  wordnet_id="" polarity="-0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="down"  wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="drag"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dry"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="due"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="earlier"  wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="early"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="easy"  wordnet_id="" polarity="-0.68" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="economic"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="effective"  wordnet_id="" polarity="-0.55" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="elect"  wordnet_id="" polarity="0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="empty"  wordnet_id="" polarity="0" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="enjoy"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="enough"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="entire"  wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="exact"  wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="excuse"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="external"  wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="extra"  wordnet_id="" polarity="-0.05" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="extreme"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fabricated"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fair"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="far"  wordnet_id="" polarity="0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fast"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="filled"  wordnet_id="" polarity="-0.02" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="final"  wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fine"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="first"  wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fit"  wordnet_id="" polarity="-0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fixed"  wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="flat"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="following"  wordnet_id="" polarity="0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="free"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fresh"  wordnet_id="" polarity="-0.05" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="friendly"  wordnet_id="" polarity="-0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="full"  wordnet_id="" polarity="0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="further"  wordnet_id="" polarity="0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="future"  wordnet_id="" polarity="0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="gay"  wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="general"  wordnet_id="" polarity="-0.43" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="genuine"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="german"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="glad"  wordnet_id="" polarity="0.19" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="global"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="good"  wordnet_id="" polarity="0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="green"  wordnet_id="" polarity="0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="gross"  wordnet_id="" polarity="0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="half"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="happy"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="hard"  wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="hazardous"  wordnet_id="" polarity="0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="high"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="higher"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="valued"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="hot"  wordnet_id="" polarity="-0.78" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="huge"  wordnet_id="" polarity="-0.73" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="expedite"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="specify"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="corrections"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="independent"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="promise"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="initial"  wordnet_id="" polarity="0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="inner"  wordnet_id="" polarity="0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="validate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="instant"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="verified"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="internal"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="international"  wordnet_id="" polarity="-0.15" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="intimate"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="block"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="joy"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="justified"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="key"  wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="kind"  wordnet_id="" polarity="0.02" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="large"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="last"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="later"  wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="latest"  wordnet_id="" polarity="0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="latter"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="solved"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="left"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="legal"  wordnet_id="" polarity="0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="less"  wordnet_id="" polarity="-0.76" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="strictly"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="successful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="addressed"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="limited"  wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="despite"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="live"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="local"  wordnet_id="" polarity="0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="delight"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="absorbed"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="long"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="accessible"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="accomplished"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="acting"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="low"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="acute"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="adequate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="main"  wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="major"  wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="adult"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="many"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="marked"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="advanced"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mean"  wordnet_id="" polarity="-0.39" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="african"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mess"  wordnet_id="" polarity="0.12" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="alcoholic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mid"  wordnet_id="" polarity="0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="alien"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="minor"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mixed"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mod"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="amazing"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="more"  wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="most"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="much"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="multiple"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="natural"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="near"  wordnet_id="" polarity="-0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="net"  wordnet_id="" polarity="0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="new"  wordnet_id="" polarity="-0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="next"  wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="nice"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="american"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="normal"  wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="apparent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="obvious"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="appreciative"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="odd"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="offers"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ok"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="okay"  wordnet_id="" polarity="0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="old"  wordnet_id="" polarity="0.19" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="appropriate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="only"  wordnet_id="" polarity="0.12" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="open"  wordnet_id="" polarity="0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="apt"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="asian"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="original"  wordnet_id="" polarity="-0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="other"  wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="outside"  wordnet_id="" polarity="0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="overall"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="own"  wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="australian"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="authoritative"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="particular"  wordnet_id="" polarity="-0.45" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="average"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="past"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="becoming"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="personal"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="physical"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="plain"  wordnet_id="" polarity="-0.85" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pleasant"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="please"  wordnet_id="" polarity="0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bland"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bold"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="polar"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="possible"  wordnet_id="" polarity="0.22" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="potent"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="potential"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="brave"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="brief"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="precise"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="present"  wordnet_id="" polarity="0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bright"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="previous"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="brilliant"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="prior"  wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="private"  wordnet_id="" polarity="0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="professional"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="broad"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="brushed"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="public"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pure"  wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="quick"  wordnet_id="" polarity="0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="quiet"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="busy"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="raw"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ready"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="real"  wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="really"  wordnet_id="" polarity="-0.71" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reasonable"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="calm"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="red"  wordnet_id="" polarity="-0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="certain"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="regular"  wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="related"  wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="comfortable"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="relevant"  wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="concrete"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="consistent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="request"  wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="constant"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="respective"  wordnet_id="" polarity="-0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="convincing"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="right"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cool"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="corporate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="courteous"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="russian"  wordnet_id="" polarity="-0.88" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="safe"  wordnet_id="" polarity="0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="same"  wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="second"  wordnet_id="" polarity="0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="creative"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="secure"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sensitive"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="serious"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="several"  wordnet_id="" polarity="-0.71" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sharp"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="short"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="crucial"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="similar"  wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="simple"  wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sincere"  wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="single"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="slight"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="small"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="smaller"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="smart"  wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cute"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="smooth"  wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="daily"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="soft"  wordnet_id="" polarity="0.05" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sole"  wordnet_id="" polarity="0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="solid"  wordnet_id="" polarity="0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sound"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sour"  wordnet_id="" polarity="0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="delighted"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="special"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="specific"  wordnet_id="" polarity="0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="deluxe"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="digital"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="standard"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="starting"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="documentary"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dynamic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="elaborate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="strong"  wordnet_id="" polarity="-0.66" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="subject"  wordnet_id="" polarity="0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="endless"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="enormous"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="success"  wordnet_id="" polarity="0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="such"  wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sudden"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="suitable"  wordnet_id="" polarity="-0.49" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="super"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="epic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="supporting"  wordnet_id="" polarity="0.12" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="erstwhile"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sure"  wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="especially"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="surprising"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="essential"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="excellent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="technical"  wordnet_id="" polarity="0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ten"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="thanks"  wordnet_id="" polarity="0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="exceptional"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="third"  wordnet_id="" polarity="-0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="excessive"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="top"  wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="total"  wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="tough"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="true"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="experienced"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="extraordinary"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ultimate"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unaware"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="familiar"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fantastic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unique"  wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="financial"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unknown"  wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fitting"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fluid"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fly"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="upper"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="for sure"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="frequent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="usual"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fun"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="various"  wordnet_id="" polarity="-0.73" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="very"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="gentle"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="golden"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="grand"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="graphic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="greater"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="greek"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="handy"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="happiness"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="white"  wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="healthy"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="historic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="win"  wordnet_id="" polarity="0.25" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="honest"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wise"  wordnet_id="" polarity="0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="human"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wooden"  wordnet_id="" polarity="0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="worth"  wordnet_id="" polarity="0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="ideal"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="yellow"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="absence"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="in stock"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="individual"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="inspiring"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="annoyed"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="intelligent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="italian"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="lawful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bad"  wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="base"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="light"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="behind"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="liked"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="broken"  wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="can't"  wordnet_id="" polarity="0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="likely"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="little"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="center"  wordnet_id="" polarity="0.19" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="logical"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="closed"  wordnet_id="" polarity="0.06" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="lol"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="love"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="loved"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="complaint"  wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="complex"  wordnet_id="" polarity="0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="lucky"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="confused"  wordnet_id="" polarity="-0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="confusing"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="lush"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="massive"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="modern"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="noble"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="numerous"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="occasional"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dangerous"  wordnet_id="" polarity="0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="dead"  wordnet_id="" polarity="-0.49" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="desperate"  wordnet_id="" polarity="-0.88" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="optimum"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="difficult"  wordnet_id="" polarity="-0.66" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pale"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="disabled"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="disappointed"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="passionate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="perfect"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pleased"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="disturbing"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="done with"  wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="powerful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="precious"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pretty"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="primary"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="proud"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="proves"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fail"  wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="failed"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="fails"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="failure"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="rare"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="false"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="recent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="few"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="refreshing"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="forced"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="frustrating"  wordnet_id="" polarity="-0.88" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="game"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="relative"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="remote"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="harsh"  wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="repetitive"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="heavy"  wordnet_id="" polarity="0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="humble"  wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="respectful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="rich"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="rose"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="smile"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="social"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="spontaneous"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="straight"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="least"  wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="liable"  wordnet_id="" polarity="-0.22" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="loses"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="mad"  wordnet_id="" polarity="0.06" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="subsequent"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="succeeds"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="superb"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="misplaced"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="supportive"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="surprised"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="negative"  wordnet_id="" polarity="-0.69" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="numb"  wordnet_id="" polarity="0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sweet"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="truthful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="partial"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="pathetic"  wordnet_id="" polarity="-0.88" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="typical"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="poor"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="random"  wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="urban"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="round"  wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sad"  wordnet_id="" polarity="0" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sec"  wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="useful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="seriously"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="vacuum"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="veteran"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="shocked"  wordnet_id="" polarity="-0.97" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="vibrant"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="visual"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="shy"  wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="vital"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="vocational"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="sorry"  wordnet_id="" polarity="-0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="warm"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="welcome"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="whole"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="thin"  wordnet_id="" polarity="-0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="willing"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="winning"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="trouble"  wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wonderful"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="worthy"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unfair"  wordnet_id="" polarity="-0.94" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unfaithful"  wordnet_id="" polarity="-1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unfortunate"  wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unhappy"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="unnecessary"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="used to"  wordnet_id="" polarity="-0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="approximate"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="awkward"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wan"  wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="bass"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="blind"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wet"  wordnet_id="" polarity="-0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="wide"  wordnet_id="" polarity="0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="casual"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="caustic"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="chilly"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cold"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="refund"  wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reject"  wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cancel"  wordnet_id="" polarity="0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="cancelled"  wordnet_id="" polarity="-0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="apologize"  wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="assistance"  wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="attention"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="concern"  wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="disclosure"  wordnet_id="" polarity="0.22" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="exception"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="liability"  wordnet_id="" polarity="-0.22" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="patience"  wordnet_id="" polarity="-0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="regret"  wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="surrender"  wordnet_id="" polarity="0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="triggered"  wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="coma"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="postpone"  wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="reschedule"  wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="apology"  wordnet_id="" polarity="-0.88" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="prevent"  wordnet_id="" polarity="0.01" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="firm"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="icy"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="parade"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
-<word form="secret"  wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0"/>
+<word form="concerned" wordnet_id="" polarity="-0.78" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="checking" wordnet_id="" polarity="-0.75" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="spot" wordnet_id="" polarity="-0.75" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="responsibility" wordnet_id="" polarity="-0.72" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="dissatisfied" wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="expect" wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="delayed" wordnet_id="" polarity="-0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="adjust" wordnet_id="" polarity="-0.69" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="settle" wordnet_id="" polarity="-0.69" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="incorrect" wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="outstanding" wordnet_id="" polarity="-0.65" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="rejected" wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="demurrage" wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="improve" wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="intervene" wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="sort" wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="recheck" wordnet_id="" polarity="-0.6" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="satisfied" wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="reminder" wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="properly" wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="understanding" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="wrong" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="removed" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="delay" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="mistake" wordnet_id="" polarity="-0.55" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="remove" wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="dispute" wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="understand" wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="additional" wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="reason" wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="chasing" wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="responsible" wordnet_id="" polarity="-0.51" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="late" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="resolve" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="await" wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="revert" wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="detention" wordnet_id="" polarity="-0.45" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="unable" wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="charge" wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="waiting" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="urgent" wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="require" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="pending" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="issued" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="problem" wordnet_id="" polarity="-0.39" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="importance" wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="better" wordnet_id="" polarity="-0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="damage" wordnet_id="" polarity="-0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="soonest" wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="released" wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="updated" wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="necessary" wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="urgently" wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="help" wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="amendment" wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="immediately" wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="immediate" wordnet_id="" polarity="-0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="advise" wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="correct" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="need" wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="contact" wordnet_id="" polarity="-0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="awaiting" wordnet_id="" polarity="-0.26" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="ensure" wordnet_id="" polarity="-0.25" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="issue" wordnet_id="" polarity="-0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="advice" wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="update" wordnet_id="" polarity="-0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="arrange" wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="reference" wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="earliest" wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="asap" wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="confirmation" wordnet_id="" polarity="-0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="release" wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="unless" wordnet_id="" polarity="0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="amended" wordnet_id="" polarity="0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="surrendered" wordnet_id="" polarity="0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="proper" wordnet_id="" polarity="0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="amend" wordnet_id="" polarity="0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="resend" wordnet_id="" polarity="0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="emergency" wordnet_id="" polarity="0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="able" wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="above" wordnet_id="" polarity="-0.16" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="action" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="actual" wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="alternate" wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="appreciated" wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="available" wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="back" wordnet_id="" polarity="-0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="best" wordnet_id="" polarity="-0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="big" wordnet_id="" polarity="-0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="careful" wordnet_id="" polarity="-0.81" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="clear" wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="complete" wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="confident" wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="confirmed" wordnet_id="" polarity="-0.09" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="cross" wordnet_id="" polarity="-0.43" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="current" wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="detailed" wordnet_id="" polarity="-0.65" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="different" wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="direct" wordnet_id="" polarity="0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="down" wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="dry" wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="due" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="earlier" wordnet_id="" polarity="-0.41" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="early" wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="easy" wordnet_id="" polarity="-0.68" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="effective" wordnet_id="" polarity="-0.55" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="exact" wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="final" wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="fine" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="first" wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="following" wordnet_id="" polarity="0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="free" wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="future" wordnet_id="" polarity="0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="general" wordnet_id="" polarity="-0.43" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="good" wordnet_id="" polarity="0.08" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="green" wordnet_id="" polarity="0.7" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="gross" wordnet_id="" polarity="0.79" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="happy" wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="high" wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="hot" wordnet_id="" polarity="-0.78" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="huge" wordnet_id="" polarity="-0.73" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="inner" wordnet_id="" polarity="0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="internal" wordnet_id="" polarity="-0.34" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="kind" wordnet_id="" polarity="0.02" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="last" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="latest" wordnet_id="" polarity="0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="less" wordnet_id="" polarity="-0.76" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="limited" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="live" wordnet_id="" polarity="-0.54" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="local" wordnet_id="" polarity="0.13" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="long" wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="main" wordnet_id="" polarity="-0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="many" wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="mean" wordnet_id="" polarity="-0.39" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="mess" wordnet_id="" polarity="0.12" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="more" wordnet_id="" polarity="-0.38" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="most" wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="much" wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="multiple" wordnet_id="" polarity="-0.67" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="net" wordnet_id="" polarity="0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="new" wordnet_id="" polarity="-0.04" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="next" wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="normal" wordnet_id="" polarity="-0.61" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="old" wordnet_id="" polarity="0.19" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="only" wordnet_id="" polarity="0.12" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="open" wordnet_id="" polarity="0.17" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="original" wordnet_id="" polarity="-0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="other" wordnet_id="" polarity="-0.3" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="outside" wordnet_id="" polarity="0.24" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="own" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="past" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="personal" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="please" wordnet_id="" polarity="0.03" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="possible" wordnet_id="" polarity="0.22" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="previous" wordnet_id="" polarity="-0.47" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="prior" wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="quick" wordnet_id="" polarity="0.35" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="ready" wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="real" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="really" wordnet_id="" polarity="-0.71" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="regular" wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="related" wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="request" wordnet_id="" polarity="-0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="right" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="safe" wordnet_id="" polarity="0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="same" wordnet_id="" polarity="-0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="several" wordnet_id="" polarity="-0.71" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="short" wordnet_id="" polarity="-0.32" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="single" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="smart" wordnet_id="" polarity="-0.62" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="sour" wordnet_id="" polarity="0.21" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="special" wordnet_id="" polarity="-0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="standard" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="subject" wordnet_id="" polarity="0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="such" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="sure" wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="technical" wordnet_id="" polarity="0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="ten" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="thanks" wordnet_id="" polarity="0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="top" wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="total" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="very" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="win" wordnet_id="" polarity="0.25" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="bad" wordnet_id="" polarity="-0.52" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="base" wordnet_id="" polarity="-0.36" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="dead" wordnet_id="" polarity="-0.49" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="fail" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="failure" wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="smile" wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="least" wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="mad" wordnet_id="" polarity="0.06" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="numb" wordnet_id="" polarity="0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="sec" wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="wonderful" wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="wan" wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="refund" wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="reject" wordnet_id="" polarity="-0.63" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="cancel" wordnet_id="" polarity="0.07" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="cancelled" wordnet_id="" polarity="-0.2" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="apologize" wordnet_id="" polarity="-0.58" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="assistance" wordnet_id="" polarity="-0.28" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="concern" wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="regret" wordnet_id="" polarity="-0.4" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
+<word form="triggered" wordnet_id="" polarity="-0.82" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 </sentiment>
