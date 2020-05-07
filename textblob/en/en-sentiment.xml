@@ -109,7 +109,6 @@
 <word form="exact" wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="final" wordnet_id="" polarity="0.44" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="fine" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
-<word form="first" wordnet_id="" polarity="-0.5" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="following" wordnet_id="" polarity="0.31" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="free" wordnet_id="" polarity="-0.18" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="future" wordnet_id="" polarity="0.33" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
@@ -177,8 +176,6 @@
 <word form="such" wordnet_id="" polarity="-0.56" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="sure" wordnet_id="" polarity="-0.23" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="technical" wordnet_id="" polarity="0.27" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
-<word form="ten" wordnet_id="" polarity="-0.48" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
-<word form="thanks" wordnet_id="" polarity="0.11" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="top" wordnet_id="" polarity="-0.37" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="total" wordnet_id="" polarity="-0.29" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="very" wordnet_id="" polarity="-0.42" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
@@ -192,7 +189,6 @@
 <word form="least" wordnet_id="" polarity="-0.77" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="mad" wordnet_id="" polarity="0.06" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="numb" wordnet_id="" polarity="0.1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
-<word form="sec" wordnet_id="" polarity="-0.14" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="wonderful" wordnet_id="" polarity="1" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="wan" wordnet_id="" polarity="-0.46" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
 <word form="refund" wordnet_id="" polarity="-0.64" pos="UH" sense="" subjectivity="1.0" intensity="1.0" confidence="1.0" />
